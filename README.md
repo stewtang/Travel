@@ -8,7 +8,7 @@
 </style>
 </head>
 <body>
-<h1>Trips in the U.S.</h1>
+<h1>My Trips in the U.S.</h1>
 
 <header>
   <ul>
@@ -18,7 +18,13 @@
   </ul>
 </header>
 <h2>
-Chicago Denver San. Francisco
+Cities
+</h2>
+<h2>
+Restaurants
+</h2>
+<h2>
+Other things to do
 </h2>
 
 <section>
