@@ -51,9 +51,7 @@ Other things to do
     ASIDE - Some information that relates to the main topic, i.e., related posts.
   </aside>
 
-  <footer>
-    Stewart's Travel Page Copyright 2021
-</footer>
+  
 
 
 
@@ -65,4 +63,7 @@ Other things to do
 </section>
 
 </body>
+<footer>
+    Stewart's Travel Page Copyright 2021
+</footer>
 </html>
