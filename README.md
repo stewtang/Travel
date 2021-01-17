@@ -22,9 +22,9 @@ SO <nav> nav links go here </nav>
         </ul>
 </header>
 
-<section>
-  <h3> San Francisco </h3>
+<h3> San Francisco </h3>
 
+<section>
 <ul>
       <li>The Marker Hotel</li>
       <li>Restaurant
@@ -48,7 +48,9 @@ SO <nav> nav links go here </nav>
 </section>
 
 
-   <h3>Chicago </h3> <section> The Windy City was always clouldy flying in. When the plane is landing and starts to break into the clouds, you usually hit turbulence. I like to look out the window but in Chicago, you can't see through the dense fog until a few seconds before you hit the runway.
+   <h3>Chicago </h3> 
+   
+   <section> The Windy City was always clouldy flying in. When the plane is landing and starts to break into the clouds, you usually hit turbulence. I like to look out the window but in Chicago, you can't see through the dense fog until a few seconds before you hit the runway.
 
 
 <ul>
@@ -71,9 +73,9 @@ SO <nav> nav links go here </nav>
 
 </section>
 
-<section>
 <h3> Houston </h3>
 
+<section>
 <ul>
       <li>Hotel</li>
       <li>Restaurant
