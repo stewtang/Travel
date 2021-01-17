@@ -15,11 +15,11 @@ SO <nav> nav links go here </nav>
 <h1>My Trips in the U.S.</h1>
 
 <header>
-  <h2> City Name <h4> San Francisco - Chicago - Houston </h4></h2>
   <ul>
-          <li>Hotel</li>
-          <li>Restaurant</li>
-          <li>Other Attractions</li>
+   <li><h2>City Name <h4> San Francisco - Chicago - Houston </h4></h2></li>
+   <li>Hotel</li>
+   <li>Restaurant</li>
+   <li>Other Attractions</li>
         </ul>
 </header>
 <a href="https://en.wikipedia.org/wiki/San_Francisco" target="_blank" title="Linking to wikipedia page"><h3>San Francisco </h3></a>
