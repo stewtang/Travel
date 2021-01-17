@@ -16,20 +16,46 @@ SO <nav> nav links go here </nav>
 
 <header>
   <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="http://goo.gl/V0Wl6s" target="_blank">AngularJS Course</a></li>
-    <li><a href="http://www.facebook.com/CourseraWebDev" target="_blank">Facebook Fan Page</a></li>
+    <li>Chicago</li>
+    <li>Denver</li>
+    <li>San Francisco</a></li>
   </ul>
 </header>
+
 <h2>
 Cities
+  
+  <section>
+    Section 1
+    <article>Article 1</article>
+    <article>Article 2</article>
+    <article>Article 3</article>
+  </section>
 </h2>
 <h2>
 Restaurants
+   <section>
+    Section 2
+    <article>Article 4</article>
+    <article>Article 5</article>
+    <article>Article 6</article>
+    <div>Regular DIV element</div>
+  </section>
 </h2>
-<h2>
+
+ <h2>
 Other things to do
 </h2>
+
+  <aside>
+    ASIDE - Some information that relates to the main topic, i.e., related posts.
+  </aside>
+
+  <footer>
+    Stewart's Travel Page Copyright 2021
+</footer>
+
+
 
 <section>
   <div>DIV 1</div>
