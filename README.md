@@ -85,8 +85,7 @@ SO <nav> nav links go here </nav>
 </section>
 
 <a href="https://en.wikipedia.org/wiki/Houston" target="_blank" title="Linking to wikipedia page">
-  <div> DIV Linking to a file in the same directory</div>
-  <h3> Houston </h3></a>
+    <h3> Houston </h3></a>
 
 <section>
 <ul>
