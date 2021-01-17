@@ -16,31 +16,44 @@ SO <nav> nav links go here </nav>
 
 <header>
   <ul>
-    <li>Chicago</li>
-    <li>Denver</li>
-    <li>San Francisco</li>
+    <li>Cities</li>
+    <li>Hotels</li>
+    <li>Restaurants</li>
+    <li>Other Attractions</li>
   </ul>
 </header>
 
 <section>
-    Hotels
-    <article>Hotel 1</article>
+   Denver
+
+<ul>
+      <li>Hotel</li>
+      <li>Restaurant
+            <ul>
+          <li>Restaurant 1</li>
+          <li>Restaurant 2</li>
+          <li>Restaurant 3</li>
+        </ul>
+      </li>
+      <li>Other Attractions
+  <ul>
+          <li>Other Attractions 1</li>
+          <li>Other Attractions 2</li>
+          <li>Other Attractions 3</li>
+        </ul>
+  </li>
+    </ul>
+
+
+<article>Hotel 1</article>
     <article>Hotel 2</article>
-    <article>Hotel 3</article>
 </section>
 
 <section>
-    Restaurant
-    <article>Restaurant 1</article>
-    <article>Restaurant 2</article>
-    <article>Restaurant 3</article>
-</section>
-
-<section>
-Other Attractions
-<article>Other Attractions 1</article>
-<article>Other Attractions 2</article>
-<article>Other Attractions 3</article>
+    Cities
+    <article>Cities-Article 1</article>
+    <article>Cities-Article 2</article>
+    <article>Cities-Article 3</article>
 </section>
 
 <aside>
