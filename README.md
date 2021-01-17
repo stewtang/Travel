@@ -18,12 +18,12 @@ SO <nav> nav links go here </nav>
   <ul>
     <li>Chicago</li>
     <li>Denver</li>
-    <li>San Francisco</a></li>
+    <li>San Francisco</li>
   </ul>
 </header>
 
-<h2>
-Cities
+<h3>
+Hotels
   
   <section>
     Section 1
@@ -31,8 +31,8 @@ Cities
     <article>Article 2</article>
     <article>Article 3</article>
   </section>
-</h2>
-<h2>
+</h3>
+<h3>
 Restaurants
    <section>
     Section 2
@@ -41,11 +41,11 @@ Restaurants
     <article>Article 6</article>
     <div>Regular DIV element</div>
   </section>
-</h2>
+</h3>
 
- <h2>
-Other things to do
-</h2>
+ <h3>
+Other Attractions
+</h3>
 
   <aside>
     ASIDE - Some information that relates to the main topic, i.e., related posts.
