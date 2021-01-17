@@ -15,7 +15,7 @@ SO <nav> nav links go here </nav>
 <h1>My Trips in the U.S.</h1>
 
 <header>
-<h2> City Name </h2>
+  <h2> City Name </h2> <h4> San Francisco - Chicago - Houston </h4>
   <ul>
           <li>Hotel</li>
           <li>Restaurant</li>
