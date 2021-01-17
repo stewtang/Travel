@@ -26,7 +26,12 @@ SO <nav> nav links go here </nav>
 
 <section>
 <ul>
-      <li>The Marker Hotel</li>
+      <li>Hotel
+  <ul>
+    <li>The Marker Hotel</li>
+    <li>Hotel Kabuki</li>
+  </li>
+  
       <li>Restaurant
             <ul>
           <li>The Noodle place</li>
