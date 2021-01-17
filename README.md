@@ -16,7 +16,13 @@ SO <nav> nav links go here </nav>
 
 <header>
   <ul>
-   <li><h2>City Name <h4> San Francisco - Chicago - Houston </h4></h2></li>
+   <li>City Name
+     <ul>
+       <li>San Francisco</li>
+       <li>Chicago</li>
+       <li>Houston</li>
+     </ul>
+    </li>
    <li>Hotel</li>
    <li>Restaurant</li>
    <li>Other Attractions</li>
