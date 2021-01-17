@@ -33,7 +33,7 @@ SO <nav> nav links go here </nav>
     <li>Hotel Kabuki</li>
      </ul>
   </li>
-
+  <p></p>
 <li>Restaurant
             <ul>
           <li>The Noodle place</li>
@@ -41,6 +41,7 @@ SO <nav> nav links go here </nav>
           <li>Restaurant 3</li>
         </ul>
       </li>
+<p></p>
 <li>Other Attractions
         <ul>
   <li>Coit Tower</li>
@@ -87,6 +88,7 @@ SO <nav> nav links go here </nav>
 <section>
 <ul>
       <li>Hotel</li>
+    <p></p>
       <li>Restaurant
             <ul>
           <li>Restaurant 1</li>
@@ -94,6 +96,7 @@ SO <nav> nav links go here </nav>
           <li>Restaurant 3</li>
         </ul>
       </li>
+    <p></p>
       <li>Other Attractions
   <ul>
           <li>Other Attractions 1</li>
