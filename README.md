@@ -15,7 +15,7 @@ SO <nav> nav links go here </nav>
 <h1>My Trips in the U.S.</h1>
 
 <header>
-  <ul> Cities
+  <ul> <h2> Cities </h2>
           <li>Restaurant 1</li>
           <li>Hotel</li>
           <li>Other Attractions</li>
