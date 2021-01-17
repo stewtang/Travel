@@ -64,6 +64,7 @@ SO <nav> nav links go here </nav>
 <ul>
       <li>The Talbot Hotel</li>
       <p></p>
+    <p></p>
   <li>Restaurant
             <ul>
           <li>Restaurant 1</li>
@@ -114,9 +115,7 @@ SO <nav> nav links go here </nav>
 Related posts go here.
 </aside>
   <p></p>
-    <p></p>
-      <p></p>
-</body>
+    </body>
 <p>
 <footer>
 Stewart's Travel Page Copyright &copy; 2021
