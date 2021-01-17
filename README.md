@@ -64,8 +64,7 @@ SO <nav> nav links go here </nav>
 <ul>
       <li>The Talbot Hotel</li>
       <p></p>
-    <p></p>
-  <li>Restaurant
+     <li>Restaurant
             <ul>
           <li>Restaurant 1</li>
           <li>Restaurant 2</li>
