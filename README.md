@@ -38,6 +38,9 @@ SO <nav> nav links go here </nav>
 
 <section>
 Other Attractions
+<article>Other Attractions 1</article>
+<article>Other Attractions 2</article>
+<article>Other Attractions 3</article>
 </section>
 
 <aside>
