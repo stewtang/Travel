@@ -22,9 +22,7 @@ SO <nav> nav links go here </nav>
           <li>Other Attractions</li>
         </ul>
 </header>
-<a href="https://en.wikipedia.org/wiki/San_Francisco" target="_blank" title="Linking to wikipedia page">
-  <div> DIV Linking to a file in the same directory</div>
-  <h3>San Francisco </h3></a>
+<a href="https://en.wikipedia.org/wiki/San_Francisco" target="_blank" title="Linking to wikipedia page"><h3>San Francisco </h3></a>
 
 <section>
 <ul>
