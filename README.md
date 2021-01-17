@@ -15,16 +15,11 @@ SO <nav> nav links go here </nav>
 <h1>My Trips in the U.S.</h1>
 
 <header>
-  <ul>
-    <li>Cities</li>
-    <li>Hotels</li>
-    <li>Restaurants</li>
-    <li>Other Attractions</li>
-  </ul>
+  
 </header>
 
 <section>
-   Denver
+   Chicago
 
 <ul>
       <li>Hotel</li>
@@ -44,16 +39,52 @@ SO <nav> nav links go here </nav>
   </li>
     </ul>
 
-
-<article>Hotel 1</article>
-    <article>Hotel 2</article>
 </section>
 
 <section>
-    Cities
-    <article>Cities-Article 1</article>
-    <article>Cities-Article 2</article>
-    <article>Cities-Article 3</article>
+   Houston
+
+<ul>
+      <li>Hotel</li>
+      <li>Restaurant
+            <ul>
+          <li>Restaurant 1</li>
+          <li>Restaurant 2</li>
+          <li>Restaurant 3</li>
+        </ul>
+      </li>
+      <li>Other Attractions
+  <ul>
+          <li>Other Attractions 1</li>
+          <li>Other Attractions 2</li>
+          <li>Other Attractions 3</li>
+        </ul>
+  </li>
+    </ul>
+
+</section>
+
+<section>
+   San Francisco
+
+<ul>
+      <li>Hotel</li>
+      <li>Restaurant
+            <ul>
+          <li>Restaurant 1</li>
+          <li>Restaurant 2</li>
+          <li>Restaurant 3</li>
+        </ul>
+      </li>
+      <li>Other Attractions
+  <ul>
+          <li>Other Attractions 1</li>
+          <li>Other Attractions 2</li>
+          <li>Other Attractions 3</li>
+        </ul>
+  </li>
+    </ul>
+
 </section>
 
 <aside>
