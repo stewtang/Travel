@@ -51,18 +51,20 @@ SO <nav> nav links go here </nav>
    <h3>Chicago </h3> 
    
    <section> The Windy City was always clouldy flying in. When the plane is landing and starts to break into the clouds, you usually hit turbulence. I like to look out the window but in Chicago, you can't see through the dense fog until a few seconds before you hit the runway.
-  <p>  </p>
+  <p></p>
 
 <ul>
       <li>The Talbot Hotel</li>
-      <li>Restaurant
+      <p></p>
+  <li>Restaurant
             <ul>
           <li>Restaurant 1</li>
           <li>Restaurant 2</li>
           <li>Restaurant 3</li>
         </ul>
       </li>
-      <li>Other Attractions
+      <p></p>
+  <li>Other Attractions
   <ul>
           <li>Other Attractions 1</li>
           <li>Other Attractions 2</li>
