@@ -22,32 +22,26 @@ SO <nav> nav links go here </nav>
   </ul>
 </header>
 
-<h3>
-Hotels
-  
-  <section>
-    Section 1
+<section>
+    Hotels
     <article>Hotel 1</article>
     <article>Hotel 2</article>
     <article>Hotel 3</article>
-  </section>
-</h3>
-<h3>
-Restaurants
-   <section>
-    Section 2
+</section>
+
+<section>
+    Restaurant
     <article>Restaurant 1</article>
     <article>Restaurant 2</article>
     <article>Restaurant 3</article>
-  </section>
-</h3>
+</section>
 
- <h3>
+<section>
 Other Attractions
-</h3>
+</section>
 
   <aside>
-    ASIDE - Some information that relates to the main topic, i.e., related posts.
+    Related posts go here.
   </aside>
   
 </body>
