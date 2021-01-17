@@ -100,9 +100,10 @@ Related posts go here.
 </aside>
 
 </body>
-
+<p>
 <footer>
 Stewart's Travel Page Copyright &copy; 2021
 </footer>
+</p>
 
 </html>
