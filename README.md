@@ -62,13 +62,12 @@ SO <nav> nav links go here </nav>
 
 </section>
 
-<a href="https://en.wikipedia.org/wiki/Chicago" target="_blank" title="Linking to wikipedia page"><h3>Chicago </h3></a>
-
-  
+ 
      
    <section> 
-  <section id="Chicago">
-    
+<a href="https://en.wikipedia.org/wiki/Chicago" target="_blank" title="Linking to wikipedia page"><h3>Chicago </h3></a>
+<section id="Chicago">
+
   &quot;The Windy City&quot; was always clouldy flying in. When the plane is landing and starts to break into the clouds, you usually hit turbulence. I like to look out the window but in Chicago, you can't see through the dense fog until a few seconds before you hit the runway.
   <p></p>
 
@@ -94,11 +93,13 @@ SO <nav> nav links go here </nav>
 
 </section>
 
-<a href="https://en.wikipedia.org/wiki/Houston" target="_blank" title="Linking to wikipedia page">
-    <h3> Houston </h3></a>
+
 
 <section>
-  <section id="Houston">
+<a href="https://en.wikipedia.org/wiki/Houston" target="_blank" title="Linking to wikipedia page">
+    <h3> Houston </h3></a>
+<section id="Houston">
+
 <ul>
       <li>Hotel</li>
     <p></p>
