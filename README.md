@@ -39,7 +39,7 @@ SO <nav> nav links go here </nav>
     <article>Restaurant 3</article>
 </section>
 
-<section>
+<section>[]
 </section
 
 <section>
