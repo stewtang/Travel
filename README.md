@@ -24,7 +24,7 @@ SO <nav> nav links go here </nav>
 </header>
 
 <h3> San Francisco </h3>
-
+<a href="https://en.wikipedia.org/wiki/San_Francisco" title="San Francisco">Linking to wikipedia page</a>
 <section>
 <ul>
 
