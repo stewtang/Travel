@@ -18,7 +18,7 @@ SO <nav> nav links go here </nav>
   <ul>
    <li>City Name
      <ul>
-       <li><a href="#Chicago">Chicago</a></li>
+       <li><a href="#Chicago">Chicago</a><a href="#Houston">Houston</a</li>
      </ul>
     </li>
     
@@ -98,6 +98,7 @@ SO <nav> nav links go here </nav>
     <h3> Houston </h3></a>
 
 <section>
+  <section id="Houston">
 <ul>
       <li>Hotel</li>
     <p></p>
