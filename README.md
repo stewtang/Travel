@@ -9,7 +9,7 @@
 </head>
 <body>
 <header>
-SO <nav>nav nav links go here </nav>
+SO <nav> nav links go here </nav>
   </header>
 
 <h1>My Trips in the U.S.</h1>
