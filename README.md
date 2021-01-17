@@ -15,14 +15,18 @@ SO <nav> nav links go here </nav>
 <h1>My Trips in the U.S.</h1>
 
 <header>
-  
+  <ul> Cities
+          <li>Restaurant 1</li>
+          <li>Hotel</li>
+          <li>Other Attractions</li>
+        </ul>
 </header>
 
 <section>
-   Chicago
+   Chicago - The Windy City was always clouldy flying in. When the plane is landing and starts to break into the clouds, you usually hit turbulence. I like to look out the window but in Chicago, you can't see through the dense fog until a few seconds before you hit the runway.
 
 <ul>
-      <li>Hotel</li>
+      <li>The Talbot Hotel</li>
       <li>Restaurant
             <ul>
           <li>Restaurant 1</li>
@@ -94,7 +98,7 @@ Related posts go here.
 </body>
 
 <footer>
-Stewart's Travel Page Copyright 2021
+Stewart's Travel Page Copyright &copy; 2021
 </footer>
 
 </html>
