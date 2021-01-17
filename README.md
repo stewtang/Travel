@@ -135,7 +135,7 @@ Related posts go here.
 
 <div>
     <p>
-      Back to top: <a href="#top">Back to Top</a>
+      <a href="#top">Back to Top</a>
     </p>
   </div>
 
