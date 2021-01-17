@@ -27,19 +27,18 @@ Hotels
   
   <section>
     Section 1
-    <article>Article 1</article>
-    <article>Article 2</article>
-    <article>Article 3</article>
+    <article>Hotel 1</article>
+    <article>Hotel 2</article>
+    <article>Hotel 3</article>
   </section>
 </h3>
 <h3>
 Restaurants
    <section>
     Section 2
-    <article>Article 4</article>
-    <article>Article 5</article>
-    <article>Article 6</article>
-    <div>Regular DIV element</div>
+    <article>Restaurant 1</article>
+    <article>Restaurant 2</article>
+    <article>Restaurant 3</article>
   </section>
 </h3>
 
@@ -50,19 +49,11 @@ Other Attractions
   <aside>
     ASIDE - Some information that relates to the main topic, i.e., related posts.
   </aside>
-
   
-
-
-
-<section>
-  <div>DIV 1</div>
-  <div>DIV 2</div>
-  <div>DIV 3</div>
-  
-</section>
-
 </body>
+
+
+
 <footer>
     Stewart's Travel Page Copyright 2021
 </footer>
