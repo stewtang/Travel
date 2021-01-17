@@ -18,7 +18,7 @@ SO <nav> nav links go here </nav>
   <ul>
    <li>City Name
      <ul>
-       <li><a href="#San_Franciso">  San Francisco  </a><a href="#Chicago">  Chicago  </a><a href="#Houston">  Houston  </a></li>
+       <li><a name="San_Francisco">San Francisco </a><a href="#Chicago">  Chicago  </a><a href="#Houston">  Houston  </a></li>
      </ul>
     </li>
     
@@ -132,6 +132,14 @@ Related posts go here.
   <p></p>
     </body>
 <p>
+
+<div>
+    <p>
+      Back to top: <a href="#top">Back to Top</a>
+    </p>
+  </div>
+
+
 <footer>
 Stewart's Travel Page Copyright &copy; 2021
 </footer>
