@@ -26,21 +26,23 @@ SO <nav> nav links go here </nav>
 
 <section>
 <ul>
-      <li>Hotel
+
+<li>Hotel
   <ul>
     <li>The Marker Hotel</li>
     <li>Hotel Kabuki</li>
+     </ul>
   </li>
-  
-      <li>Restaurant
+
+<li>Restaurant
             <ul>
           <li>The Noodle place</li>
           <li>Restaurant 2</li>
           <li>Restaurant 3</li>
         </ul>
       </li>
-      <li>Other Attractions
-        <ul>
+<li>Other Attractions
+        </ul>
   <li>Coit Tower</li>
           <li>Beach</li>
           <li>Swiggly road</li>
