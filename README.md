@@ -42,15 +42,15 @@ SO <nav> nav links go here </nav>
         </ul>
       </li>
 <li>Other Attractions
-        </ul>
+        <ul>
   <li>Coit Tower</li>
           <li>Beach</li>
           <li>Swiggly road</li>
   <li>Bart - drinking beer</li>
   <li>Treasure Island place with bus</li>
-  
   </ul>
   </li>
+</ul>
 
 </section>
 
