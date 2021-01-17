@@ -16,8 +16,8 @@ SO <nav> nav links go here </nav>
 
 <header>
   <ul> <h2> City Name </h2>
-          <li>Restaurant</li>
           <li>Hotel</li>
+          <li>Restaurant</li>
           <li>Other Attractions</li>
         </ul>
 </header>
@@ -50,7 +50,7 @@ SO <nav> nav links go here </nav>
   <li>Treasure Island place with bus</li>
   
   </ul>
-  
+  </li>
 
 </section>
 
