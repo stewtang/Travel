@@ -15,15 +15,15 @@ SO <nav> nav links go here </nav>
 <h1>My Trips in the U.S.</h1>
 
 <header>
-  <ul> <h2> Cities </h2>
-          <li>Restaurant 1</li>
+  <ul> <h2> City Name </h2>
+          <li>Restaurant</li>
           <li>Hotel</li>
           <li>Other Attractions</li>
         </ul>
 </header>
 
 <section>
-   Chicago - The Windy City was always clouldy flying in. When the plane is landing and starts to break into the clouds, you usually hit turbulence. I like to look out the window but in Chicago, you can't see through the dense fog until a few seconds before you hit the runway.
+   <h3>Chicago </h3>- The Windy City was always clouldy flying in. When the plane is landing and starts to break into the clouds, you usually hit turbulence. I like to look out the window but in Chicago, you can't see through the dense fog until a few seconds before you hit the runway.
 
 <ul>
       <li>The Talbot Hotel</li>
@@ -46,7 +46,7 @@ SO <nav> nav links go here </nav>
 </section>
 
 <section>
-   Houston
+<h3> Houston </h3>
 
 <ul>
       <li>Hotel</li>
@@ -69,7 +69,7 @@ SO <nav> nav links go here </nav>
 </section>
 
 <section>
-   San Francisco
+  <h3> San Francisco </h3>
 
 <ul>
       <li>Hotel</li>
