@@ -18,9 +18,7 @@ SO <nav> nav links go here </nav>
   <ul>
    <li>City Name
      <ul>
-       <li>San Francisco</li>
-       <li>Chicago</li>
-       <li>Houston</li>
+       <li>San Francisco - Chicago - Houston</li>
      </ul>
     </li>
    <li>Hotel</li>
