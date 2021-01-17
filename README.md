@@ -18,9 +18,12 @@ SO <nav> nav links go here </nav>
   <ul>
    <li>City Name
      <ul>
-       <li>San Francisco - Chicago - Houston</li>
+       <li><a href="#section1">#Chicago</a> </li>
      </ul>
     </li>
+    
+    
+    
    <li>Hotel</li>
    <li>Restaurant</li>
    <li>Other Attractions</li>
@@ -63,7 +66,10 @@ SO <nav> nav links go here </nav>
 
   
      
-   <section> &quot;The Windy City&quot; was always clouldy flying in. When the plane is landing and starts to break into the clouds, you usually hit turbulence. I like to look out the window but in Chicago, you can't see through the dense fog until a few seconds before you hit the runway.
+   <section> 
+  <section id="Chicago">
+    
+  &quot;The Windy City&quot; was always clouldy flying in. When the plane is landing and starts to break into the clouds, you usually hit turbulence. I like to look out the window but in Chicago, you can't see through the dense fog until a few seconds before you hit the runway.
   <p></p>
 
 <ul>
