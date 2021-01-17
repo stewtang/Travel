@@ -22,7 +22,7 @@ SO <nav> nav links go here </nav>
           <li>Other Attractions</li>
         </ul>
 </header>
-<a href="https://en.wikipedia.org/wiki/San_Francisco" title="Linking to wikipedia page"><h3>San Francisco</h3></a>
+<a href="https://en.wikipedia.org/wiki/San_Francisco" target = _blank title="Linking to wikipedia page"><h3>San Francisco</h3></a>
 
 <section>
 <ul>
@@ -55,7 +55,7 @@ SO <nav> nav links go here </nav>
 
 </section>
 
-<a href="https://en.wikipedia.org/wiki/Chicago" title="Linking to wikipedia page"><h3>Chicago </h3></a>
+<a href="https://en.wikipedia.org/wiki/Chicago" target = _blank title="Linking to wikipedia page"><h3>Chicago </h3></a>
 
   
      
@@ -84,7 +84,7 @@ SO <nav> nav links go here </nav>
 
 </section>
 
-<a href="https://en.wikipedia.org/wiki/Houston" title="Linking to wikipedia page"><h3> Houston </h3></a>
+<a href="https://en.wikipedia.org/wiki/Houston" target = _blank title="Linking to wikipedia page"><h3> Houston </h3></a>
 
 <section>
 <ul>
