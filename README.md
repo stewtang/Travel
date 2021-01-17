@@ -55,7 +55,7 @@ SO <nav> nav links go here </nav>
 
 </section>
 
-<a href="https://en.wikipedia.org/wiki/Chicago" target = "_blank" title="Linking to wikipedia page"><h3>Chicago </h3></a>
+<a href="https://en.wikipedia.org/wiki/Chicago" target="_blank" title="Linking to wikipedia page"><h3>Chicago </h3></a>
 
   
      
@@ -84,7 +84,7 @@ SO <nav> nav links go here </nav>
 
 </section>
 
-<a href="https://en.wikipedia.org/wiki/Houston" target = "_blank" title="Linking to wikipedia page"><h3> Houston </h3></a>
+<a href="https://en.wikipedia.org/wiki/Houston" target="_blank" title="Linking to wikipedia page"><h3> Houston </h3></a>
 
 <section>
 <ul>
