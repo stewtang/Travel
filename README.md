@@ -30,36 +30,21 @@ SO <nav> nav links go here </nav>
 </section>
 
 <section>
-</section>
-
-<section>
     Restaurant
     <article>Restaurant 1</article>
     <article>Restaurant 2</article>
     <article>Restaurant 3</article>
 </section>
 
-<section>[]
-</section
-
 <section>
 Other Attractions
 </section>
-
-<section>
-</section
 
 <aside>
 Related posts go here.
 </aside>
 
-<section>
-</section  
-
 </body>
-
-<section>
-</section
 
 <footer>
 Stewart's Travel Page Copyright 2021
