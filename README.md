@@ -17,6 +17,9 @@
     <li><a href="http://www.facebook.com/CourseraWebDev" target="_blank">Facebook Fan Page</a></li>
   </ul>
 </header>
+<h2>
+Chicago Denver San. Francisco
+</h2>
 
 <section>
   <div>DIV 1</div>
