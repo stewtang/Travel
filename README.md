@@ -2,12 +2,16 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Stewtang Travel Page</title>
+<title>Stewart's Travel Page</title>
 <style>
 
 </style>
 </head>
 <body>
+<header>
+SO <nav>nav nav links go here </nav>
+  </header>
+
 <h1>My Trips in the U.S.</h1>
 
 <header>
