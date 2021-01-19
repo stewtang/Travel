@@ -12,9 +12,9 @@ h1 {
 }
 
 .Hotel {
-  color: blue;
-  font-size: 35px;
-  text-align: center;
+  color: green;
+  font-size: 15px;
+  text-align: left;
 }
 
 
