@@ -38,7 +38,7 @@ SO <nav> nav links go here </nav>
    <li>Cities
      <ul>
        <li>
-       <div id="Cities_Header" 
+       <div id="Cities_Header"> 
             <a href="#San_Francisco"><img src="SF1.jpg" width="250" height="135" alt="Bay Bridge San Francisco">San Francisco</a>
            <a href="#Chicago"><img src="Chicago1.jpg" width="250" height="135" alt="Picture from the Sears Tower">Chicago</a>
            <a href="#Houston"><img src="Houston1.jpg" width="250" height="135" alt="Houston Galleria">Houston</a>
