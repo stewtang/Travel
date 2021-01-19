@@ -18,8 +18,8 @@ h1 {
 }
 
 #Cities_Header {
-  color: blue;
-  font-size: 8px;
+  color: red;
+  font-size: 12px;
   text-align: left;
 }
 
