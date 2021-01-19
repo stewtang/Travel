@@ -5,9 +5,9 @@
 <title>Stewart's Travel Page</title>
 <style>
 
-li {
-  color: green;
-  font-size: 20px;
+h1 {
+  color: blue;
+  font-size: 35px;
   width: 200px;
 }
 
