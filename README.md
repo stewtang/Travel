@@ -12,8 +12,8 @@ h1 {
 }
 
 .Hotel {
-  color: green;
-  font-size: 30px;
+  color: blue;
+  font-size: 20px;
   text-align: left;
 }
 
@@ -63,7 +63,7 @@ SO <nav> nav links go here </nav>
      </ul>
   </li>
   <p></p>
-<li>Restaurant
+<li><div class="Hotel">Restaurant</div>
             <ul>
           <li>The Noodle place</li>
           <li>Restaurant 2</li>
@@ -71,7 +71,7 @@ SO <nav> nav links go here </nav>
         </ul>
       </li>
 <p></p>
-<li>Other Attractions
+<li><div class="Hotel">Other Attractions</div>
         <ul>
   <li>Coit Tower</li>
           <li>Beach</li>
