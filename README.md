@@ -56,7 +56,7 @@ SO <nav> nav links go here </nav>
 <a href="https://en.wikipedia.org/wiki/San_Francisco" target="_blank" title="Linking to wikipedia page"><h3>San Francisco </h3></a>
 <ul>
 
-<li><p class="Hotel">Hotel</p>
+<li><div class="Hotel">Hotel</div>
   <ul>
     <li>The Marker Hotel</li>
     <li>Hotel Kabuki</li>
