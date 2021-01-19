@@ -11,10 +11,13 @@ h1 {
   text-align: center;
 }
 
-h2 {
-  color: black;
-  font-size: 15px;
- }
+.Hotel {
+  color: blue;
+  font-size: 35px;
+  text-align: center;
+}
+
+
 
 </style>
 
@@ -28,7 +31,7 @@ SO <nav> nav links go here </nav>
 
 <header>
   <ul>
-   <li>City Name
+   <li>Cities
      <ul>
        <li><a href="#San_Francisco"><img src="SF1.jpg" width="250" height="135" alt="Bay Bridge San Francisco">San Francisco</a>
            <a href="#Chicago"><img src="Chicago1.jpg" width="250" height="135" alt="Picture from the Sears Tower">Chicago</a>
@@ -53,7 +56,7 @@ SO <nav> nav links go here </nav>
 <a href="https://en.wikipedia.org/wiki/San_Francisco" target="_blank" title="Linking to wikipedia page"><h3>San Francisco </h3></a>
 <ul>
 
-<li>Hotel
+<li><p class="Hotel">Hotel</p>
   <ul>
     <li>The Marker Hotel</li>
     <li>Hotel Kabuki</li>
