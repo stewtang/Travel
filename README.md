@@ -11,6 +11,10 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color: black;
+  font-size: 15px;
+ }
 
 </style>
 
