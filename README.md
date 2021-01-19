@@ -13,7 +13,7 @@ h1 {
 
 .Hotel, #Footer {
   color: blue;
-  font-size: 9px;
+  font-size: 15px;
   text-align: left;
 }
 
