@@ -16,12 +16,11 @@ h1 {
   text-align: left;
 }
 
-#Cities_Header, {
-  color: blue;
+#Cities_Header li a:after {
+  content: attr(title);
   font-size: 9px;
-  text-align: left;
+  display: block;
 }
-
 
 </style>
 
