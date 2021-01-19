@@ -13,7 +13,7 @@ h1 {
 
 .Hotel {
   color: green;
-  font-size: 15px;
+  font-size: 30px;
   text-align: left;
 }
 
