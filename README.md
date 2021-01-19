@@ -8,7 +8,8 @@
 h1 {
   color: blue;
   font-size: 35px;
-  width: 200px;
+  width: 400px;
+  text-align: center;
 }
 
 </style>
