@@ -19,10 +19,14 @@ SO <nav> nav links go here </nav>
    <li>City Name
      <ul>
        <li><a href="#San_Francisco">San Francisco </a><a href="#Chicago">  Chicago  </a><a href="#Houston">  Houston  </a></li>
+             
      </ul>
     </li>
     
-    
+     <p>
+  <img src="SF1.jpg" width="400" height="235" alt="Picture with a quote">ffsdfsd
+</p>
+   
     
    <li>Hotel</li>
    <li>Restaurant</li>
