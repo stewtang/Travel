@@ -17,11 +17,14 @@ h1 {
   text-align: left;
 }
 
-#Cities_Header {
+#Cities_Header, .Footer {
   color: red;
-  font-size: 12px;
+  font-size: 9px;
   text-align: left;
 }
+
+
+
 
 </style>
 
@@ -175,7 +178,9 @@ Related posts go here.
 
 
 <footer>
+<div id="Footer">
 Stewart's Travel Page Copyright &copy; 2021
+</div>
 </footer>
 </p>
 
