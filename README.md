@@ -17,7 +17,11 @@ h1 {
   text-align: left;
 }
 
-
+#Cities_Header {
+  color: blue;
+  font-size: 8px;
+  text-align: left;
+}
 
 </style>
 
@@ -33,10 +37,12 @@ SO <nav> nav links go here </nav>
   <ul>
    <li>Cities
      <ul>
-       <li><a href="#San_Francisco"><img src="SF1.jpg" width="250" height="135" alt="Bay Bridge San Francisco">San Francisco</a>
+       <li>
+       <div id="Cities_Header" 
+            <a href="#San_Francisco"><img src="SF1.jpg" width="250" height="135" alt="Bay Bridge San Francisco">San Francisco</a>
            <a href="#Chicago"><img src="Chicago1.jpg" width="250" height="135" alt="Picture from the Sears Tower">Chicago</a>
            <a href="#Houston"><img src="Houston1.jpg" width="250" height="135" alt="Houston Galleria">Houston</a>
-         
+    </div>
        </li>
             
      </ul>
