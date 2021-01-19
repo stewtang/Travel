@@ -11,15 +11,15 @@ h1 {
   text-align: center;
 }
 
-.Hotel {
+.Hotel, #Footer {
   color: blue;
-  font-size: 20px;
+  font-size: 9px;
   text-align: left;
 }
 
-#Cities_Header, #Footer  {
-  color: green;
-  font-size: 15px;
+#Cities_Header, {
+  color: blue;
+  font-size: 9px;
   text-align: left;
 }
 
