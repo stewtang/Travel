@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -105,6 +104,7 @@ SO <nav> nav links go here </nav>
   <ul>
     <li>The Talbot Hotel</li>
     <li>Embassy Suties</li>
+    </li>
      </ul>
  <p></p>
      <li><div class="Hotel">Restaurant</div>
