@@ -94,9 +94,13 @@ SO <nav> nav links go here </nav>
   <p></p>
 
 <ul>
-      <li>The Talbot Hotel</li>
-      <p></p>
-     <li>Restaurant
+<li><div class="Hotel">Hotel</div>
+  <ul>
+    <li>The Talbot Hotel</li>
+    <li>Embassy Suties</li>
+     </ul>
+ <p></p>
+     <li><div class="Hotel">Restaurant</div>
             <ul>
           <li>Restaurant 1</li>
           <li>Restaurant 2</li>
@@ -104,7 +108,7 @@ SO <nav> nav links go here </nav>
         </ul>
       </li>
       <p></p>
-  <li>Other Attractions
+  <li><div class="Hotel">Other Attractions</div>
   <ul>
           <li>Other Attractions 1</li>
           <li>Other Attractions 2</li>
@@ -123,9 +127,13 @@ SO <nav> nav links go here </nav>
 <section id="Houston">
 
 <ul>
-      <li>Hotel</li>
-    <p></p>
-      <li>Restaurant
+  <li><div class="Hotel">Hotel</div>
+  <ul>
+    <li>Hotel Derek</li>
+    <li>...</li>
+     </ul>
+  <p></p>
+      <li><div class="Hotel">Restaurant</div>
             <ul>
           <li>Restaurant 1</li>
           <li>Restaurant 2</li>
@@ -133,7 +141,7 @@ SO <nav> nav links go here </nav>
         </ul>
       </li>
     <p></p>
-      <li>Other Attractions
+      <li><div class="Hotel">Other Attractions</div>
   <ul>
           <li>Other Attractions 1</li>
           <li>Other Attractions 2</li>
