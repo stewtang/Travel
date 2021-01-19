@@ -17,13 +17,11 @@ h1 {
   text-align: left;
 }
 
-#Cities_Header, #Footer {
+#Cities_Header {
   color: red;
   font-size: 9px;
   text-align: left;
 }
-
-
 
 
 </style>
