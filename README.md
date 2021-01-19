@@ -5,7 +5,14 @@
 <title>Stewart's Travel Page</title>
 <style>
 
+li {
+  color: green;
+  font-size: 20px;
+  width: 200px;
+}
+
 </style>
+
 </head>
 <body>
 <header>
