@@ -18,9 +18,9 @@ SO <nav> nav links go here </nav>
   <ul>
    <li>City Name
      <ul>
-       <li><a href="#San_Francisco"><img src="SF1.jpg" width="300" height="135" alt="Bay Bridge San Francisco">San Francisco</a>
-           <a href="#Chicago"><img src="Chicago1.jpg" width="300" height="135" alt="Picture from the Sears Tower">Chicago</a>
-           <a href="#Houston"><img src="Houston1.jpg" width="100" height="185" alt="Houston Galleria">Houston</a>
+       <li><a href="#San_Francisco"><img src="SF1.jpg" width="300" height="180" alt="Bay Bridge San Francisco">San Francisco</a>
+           <a href="#Chicago"><img src="Chicago1.jpg" width="300" height="180" alt="Picture from the Sears Tower">Chicago</a>
+           <a href="#Houston"><img src="Houston1.jpg" width="300" height="180" alt="Houston Galleria">Houston</a>
          
        </li>
             
