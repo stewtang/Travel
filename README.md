@@ -17,7 +17,7 @@ h1 {
   text-align: left;
 }
 
-#Cities_Header {
+#Cities_Header, #Footer  {
   color: green;
   font-size: 15px;
   text-align: left;
