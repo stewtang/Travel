@@ -24,8 +24,8 @@ h1 {
 
 
 ul > li {
-  color: green;
-  font-size: 30px;
+  color: orange;
+  font-size: 18px;
   text-align: left;
 }
 
