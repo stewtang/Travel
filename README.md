@@ -44,7 +44,7 @@ background-color: yellow;
 color: purple;
 }
 
-section:nth-child(2:5:7) {
+section:nth-child(even) {
 background-color: orange;
 }
 
