@@ -35,10 +35,14 @@ header li {
 
 a:link, a:visited {
 background-color: blue;
-border: 4px solid black;
+border: 2px solid black;
 color: orange;
 }
 
+a:hover, a:active {
+background-color: yellow;
+color: purple;
+}
 
 
 </style>
