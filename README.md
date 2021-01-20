@@ -44,7 +44,7 @@ background-color: yellow;
 color: purple;
 }
 
-section ul:nth-child(even) {
+section:nth-child(odd) {
 background-color: orange;
 }
 
