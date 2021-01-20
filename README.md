@@ -22,13 +22,6 @@ h1 {
   text-align: left;
 }
 
-#Houston {
-  color: blue;
-  font-size: 15px;
-  text-align: left;
-}
-
-
 
 </style>
 
@@ -136,11 +129,9 @@ SO <nav> nav links go here </nav>
 
 
 <section>
- <div id="Houston">
+ <section id="Houston">
    <a href="https://en.wikipedia.org/wiki/Houston" target="_blank" title="Linking to wikipedia page">
-    <h3> Houston </h3></a>
-<section id="Houston">
-  </div>
+    <h2> Houston </h2></a>
 
 <ul>
   <li><div class="Hotel">Hotel</div>
