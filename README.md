@@ -45,7 +45,7 @@ color: purple;
 }
 
 header {
-background-color: light blue;
+background-color: blue;
 }
 
 
