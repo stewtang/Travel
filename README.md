@@ -16,7 +16,7 @@ h1 {
   text-align: left;
 }
 
-#Cities_Header, {
+#Cities_Header {
   color: blue;
   font-size: 6px;
   text-align: left;
@@ -95,7 +95,7 @@ SO <nav> nav links go here </nav>
     <li>Hotel Kabuki</li>
      </ul>
   </li>
-  <p></p>
+  
 <li><div class="Hotel">Restaurant</div>
             <ul>
           <li>The Noodle place</li>
@@ -103,7 +103,7 @@ SO <nav> nav links go here </nav>
           <li>Restaurant 3</li>
         </ul>
       </li>
-<p></p>
+
 <li><div class="Hotel">Other Attractions</div>
         <ul>
   <li>Coit Tower</li>
@@ -131,8 +131,9 @@ SO <nav> nav links go here </nav>
   <ul>
     <li>The Talbot Hotel</li>
     <li>Embassy Suties</li>
+    </ul>
     </li>
-     </ul>
+    
  <p></p>
      <li><div class="Hotel">Restaurant</div>
             <ul>
@@ -141,7 +142,7 @@ SO <nav> nav links go here </nav>
           <li>Restaurant 3</li>
         </ul>
       </li>
-      <p></p>
+      
   <li><div class="Hotel">Other Attractions</div>
   <ul>
           <li>Other Attractions 1</li>
@@ -174,7 +175,7 @@ SO <nav> nav links go here </nav>
           <li>Restaurant 3</li>
         </ul>
       </li>
-    <p></p>
+    
       <li><div class="Hotel">Other Attractions</div>
   <ul>
           <li>Other Attractions 1</li>
