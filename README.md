@@ -18,7 +18,7 @@ h1 {
 
 #Cities_Header {
   color: blue;
-  font-size: 6px;
+  font-size: 9px;
   text-align: left;
 }
 
