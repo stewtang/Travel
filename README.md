@@ -33,6 +33,13 @@ header li {
   list-style: none;
 }
 
+a:link, a:visited {
+background-color: grey;
+border: 1px solid green;
+color: orange;
+}
+
+
 
 </style>
 
