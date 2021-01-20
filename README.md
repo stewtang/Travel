@@ -136,9 +136,11 @@ SO <nav> nav links go here </nav>
 
 
 <section>
-<a href="https://en.wikipedia.org/wiki/Houston" target="_blank" title="Linking to wikipedia page">
+ <div id="Houston">
+   <a href="https://en.wikipedia.org/wiki/Houston" target="_blank" title="Linking to wikipedia page">
     <h3> Houston </h3></a>
 <section id="Houston">
+  </div>
 
 <ul>
   <li><div class="Hotel">Hotel</div>
