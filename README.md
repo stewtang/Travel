@@ -29,6 +29,11 @@ ul > li {
   text-align: left;
 }
 
+header li {
+  list-style: none;
+}
+
+
 </style>
 
 </head>
