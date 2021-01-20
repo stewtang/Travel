@@ -34,8 +34,8 @@ header li {
 }
 
 a:link, a:visited {
-background-color: grey;
-border: 1px solid green;
+background-color: blue;
+border: 4px solid black;
 color: orange;
 }
 
