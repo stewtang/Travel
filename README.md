@@ -23,6 +23,12 @@ h1 {
 }
 
 
+ul > li {
+  color: green;
+  font-size: 30px;
+  text-align: left;
+}
+
 </style>
 
 </head>
