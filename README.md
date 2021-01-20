@@ -44,7 +44,7 @@ background-color: yellow;
 color: purple;
 }
 
-section:nth-child(odd) {
+section:nth-child(2,5,7) {
 background-color: orange;
 }
 
