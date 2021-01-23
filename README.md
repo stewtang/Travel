@@ -5,51 +5,6 @@
 <link rel="stylesheet" href="style.css">
 <style>
 
-h1 {
-  color: blue;
-  font-size: 35px;
-  text-align: center;
-}
-
-.Hotel, #Footer {
-  color: blue;
-  font-size: 15px;
-  text-align: left;
-}
-
-#Cities_Header {
-  color: blue;
-  font-size: 15px;
-  text-align: left;
-}
-
-
-ul > li {
-  color: grey;
-  font-size: 18px;
-  text-align: left;
-}
-
-header li {
-  list-style: none;
-}
-
-a:link, a:visited {
-background-color: blue;
-border: 2px solid black;
-color: orange;
-}
-
-a:hover, a:active {
-background-color: yellow;
-color: purple;
-}
-
-header {
-background-color: blue;
-}
-
-
 
 </style>
 
