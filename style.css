@@ -5,3 +5,56 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
+
+a:link, a:visited {
+background-color: blue;
+border: 2px solid black;
+color: orange;
+}
+
+a:hover, a:active {
+background-color: yellow;
+color: purple;
+}
+
+#Cities_Header {
+  color: blue;
+  font-size: 15px;
+  text-align: left;
+}
+
+.Hotel, #Footer {
+  color: blue;
+  font-size: 15px;
+  text-align: left;
+}
+
+
+header {
+background-color: blue;
+}
+
+header li {
+  list-style: none;
+}
+
+
+h1 {
+  color: blue;
+  font-size: 35px;
+  text-align: center;
+}
+
+ul > li {
+  color: grey;
+  font-size: 18px;
+  text-align: left;
+}
+
+
+
+
+
+
+
+
