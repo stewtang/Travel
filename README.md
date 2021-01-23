@@ -2,6 +2,7 @@
 <head>
 <meta charset="utf-8">
 <title>Stewart's Travel Page</title>
+<link rel="stylesheet" href="style.css">
 <style>
 
 h1 {
