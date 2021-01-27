@@ -10,6 +10,7 @@
 
 </head>
 <body>
+<div id="body">
 <header>
 SO <nav> nav links go here </nav>
   </header>
@@ -22,7 +23,7 @@ SO <nav> nav links go here </nav>
      <ul>
        <li>
        <div id="Cities_Header"> 
-           <a href="#San_Francisco"><img src="Window.jpg" width="225" height="125" alt="Bay Bridge San Francisco">San Francisco</a>
+           <a href="#San_Francisco"><img src="SF1.jpg" width="225" height="125" alt="Bay Bridge San Francisco">San Francisco</a>
            <a href="#Chicago"><img src="Chicago1.jpg" width="225" height="125" alt="Picture from the Sears Tower">Chicago</a>
            <a href="#Houston"><img src="Houston1.jpg" width="225" height="125" alt="Houston Galleria">Houston</a>
     </div>
@@ -150,6 +151,7 @@ Related posts go here.
 </aside>
   <p></p>
 
+</div>
 </body>
 <p>
 
