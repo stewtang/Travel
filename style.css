@@ -31,6 +31,8 @@ color: purple;
 
 header {
 background-color: blue;
+background-image: url(“Window.jpg”)
+
 }
 
 header li {
