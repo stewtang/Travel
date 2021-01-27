@@ -3,8 +3,7 @@ body {
   color: green;
   text-align: left;
   font-family: Helvetica;
-  background-image: url(“Window.jpg”);
-}
+  }
 
 a:link, a:visited {
 background-color: blue;
@@ -21,6 +20,7 @@ color: purple;
   color: blue;
   font-size: 15px;
   text-align: left;
+  background-image: url(“Window.jpg”);
 }
 
 .Hotel, #Footer {
