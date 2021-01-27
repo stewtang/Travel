@@ -10,8 +10,6 @@
 
 </head>
 <body>
-background-image: url(“Window.jpg”)
-
 <header>
 SO <nav> nav links go here </nav>
   </header>
