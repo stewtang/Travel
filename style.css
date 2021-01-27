@@ -3,6 +3,8 @@ body {
   color: green;
   text-align: left;
   font-family: Helvetica;
+  Background-image: url(“Window.jpg”);
+  Background-repeat : no-repeat;
   }
 
 a:link, a:visited {
