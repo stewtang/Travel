@@ -10,7 +10,7 @@
 
 <body>
 <div class="container">
-<p class="primary">HqELLO!</p>
+<p class="primary">HELLO!</p>
 <p class="secondary">Hello</p>
   </div>
   
