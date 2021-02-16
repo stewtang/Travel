@@ -1,4 +1,4 @@
-#primary {
+.primary {
   font-size: 130%;
   color: blue;
   text-align: right;
@@ -6,7 +6,7 @@
  }
 
 
-#secondary {
+.secondary {
   font-size: 90%;
   color: grey;
   text-align: left;
