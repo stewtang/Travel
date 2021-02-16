@@ -12,8 +12,8 @@
 
 <body>
 <div class="container">
-<p class="primary">HELLO!</p>
-<p class="secondary">Hello</p>
+<p class="text-primary">HELLO!</p>
+<p class="text-secondary">Hello</p>
   </div>
 
 
