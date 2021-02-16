@@ -1,65 +1,16 @@
-header {
-background-color: blue;
-
-}
-
-header li {
-  list-style: none;
-}
-
-
-h1 {
-  color: blue;
-  font-size: 35px;
-  text-align: center;
-}
-
-ul > li {
-  color: grey;
-  font-size: 18px;
-  text-align: left;
-}
-
-.Hotel, #Footer {
-  color: blue;
-  font-size: 15px;
-  text-align: left;
-}
-
-#body {
+#primary {
   font-size: 130%;
-  color: green;
+  color: blue;
   text-align: left;
   font-family: Helvetica;
-  Background-image: url(“Window.jpg”);
-  Background-repeat : no-repeat;
-  }
+ }
 
 
-#Cities_Header {
-  color: blue;
-  font-size: 15px;
+#secondary {
+  font-size: 90%;
+  color: grey;
   text-align: left;
-  background-image: url(“Window.jpg”);
-}
-
-
-a:link, a:visited {
-background-color: blue;
-border: 2px solid black;
-color: orange;
-}
-
-a:hover, a:active {
-background-color: yellow;
-color: purple;
-}
-
-
-
-
-
-
-
+  font-family: Helvetica;
+ }
 
 
