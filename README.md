@@ -9,7 +9,9 @@
         <link rel="stylesheet" href="css/style.css">
   </head>
 <body>
-    
+
+<p class="primary">Hello</p>
+<p class="secondary">Hello</p>
  
 </body>
 </html>
