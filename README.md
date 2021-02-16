@@ -11,11 +11,8 @@
    </head>
 
 <body>
-<div class="container">
-<p class="text-primary">HEsfsdaLLO!</p>
-<p class="text-secondary">HEsfsdaLLO!</p>
-  </div>
-
-
+<p class="text-primary">HELLO!</p>
+<p class="text-secondary">HELLO!</p>
+  
 </body>
 </html>
