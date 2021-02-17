@@ -11,8 +11,9 @@
    </head>
 
 <body>
-<p class="text-primary">HELLO!</p>
-<p class="text-secondary">HELLO!</p>
-  
+<div class="container">
+<p class="bg-info text-primary">HELLO123!</p>
+<p class="bg-primary text-secondary">HELLO123!</p>
+  </div>
 </body>
 </html>
