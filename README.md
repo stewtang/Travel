@@ -12,9 +12,9 @@
 
 <body>
 <div class="container">
-<p class="p-1 margin text-warning">HELLO!</p>
-<p class="p-3 margin text-danger">HELLO!</p>
-<p class="p-5 margin text-danger">HELLO!</p>
+<p class="p-1 margin-0 text-warning">HELLO!</p>
+<p class="p-3 margin-3 text-danger">HELLO!</p>
+<p class="p-5 margin-0 text-danger">HELLO!</p>
   </div>
 </body>
 </html>
